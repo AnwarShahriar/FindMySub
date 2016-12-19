@@ -1,0 +1,16 @@
+{
+  "name": "findmysub",
+  "version": "1.0.0",
+  "description": "This is a simple subtitle downloader for movies and tv shows. Just run this script in your target movie/tv directory it'll find the appropriate file and save it to the same directory",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anwarshahriar",
+  "license": "ISC"
+}
